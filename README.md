@@ -1,3 +1,5 @@
+<img width="1744" height="1161" alt="image" src="https://github.com/user-attachments/assets/431fdacb-5855-4fbb-b1f5-b9d618ebbade" />
+
 # 📄 TextFileAnalyzerVB.Net
 
 A beginner-friendly **VB.NET (.NET 6)** console application that reads a text file and performs basic analysis:
