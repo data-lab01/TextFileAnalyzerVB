@@ -50,3 +50,12 @@ This project is licensed under the MIT License.
 ## Robert Bakyayita
     GitHub: @data-lab01/TextFileAnalyzerVB/
     Email: rw-bakyayita@outlook.com
+
+## 📚 References
+
+- Microsoft Docs – [.NET 6 Documentation](https://learn.microsoft.com/en-us/dotnet/)
+- VB.NET String Handling – [TutorialsPoint](https://www.tutorialspoint.com/vb.net/vb.net_strings.htm)
+- Word Count Logic – [GeeksforGeeks](https://www.geeksforgeeks.org/count-number-of-words-in-a-text-file-in-c-sharp/)
+- MIT License Template – [ChooseALicense.com](https://choosealicense.com/licenses/mit/)
+- GeeksforGeeks – Count Words in Text File (https://www.geeksforgeeks.org/count-number-of-words-in-a-text-file-in-c-sharp/)
+
