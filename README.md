@@ -55,4 +55,3 @@ This project is licensed under the MIT License.
 
 - Microsoft Docs – [.NET 6 Documentation](https://learn.microsoft.com/en-us/dotnet/)
 - VB.NET String Handling – [TutorialsPoint](https://www.tutorialspoint.com/vb.net/vb.net_strings.htm)
-- MIT License Template – [ChooseALicense.com](https://choosealicense.com/licenses/mit/)
