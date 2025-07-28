@@ -48,5 +48,5 @@ This project is licensed under the MIT License.
 
 # 👤 Author
 ## Robert Bakyayita
-    GitHub: @data-lab01
+    GitHub: @data-lab01/TextFileAnalyzerVB/
     Email: rw-bakyayita@outlook.com
