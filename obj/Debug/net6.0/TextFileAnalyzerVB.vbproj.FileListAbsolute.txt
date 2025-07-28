@@ -1,0 +1,15 @@
+/Users/reveal/Documents/TextFileAnalyzerVB/bin/Debug/net6.0/TextFileAnalyzerVB
+/Users/reveal/Documents/TextFileAnalyzerVB/bin/Debug/net6.0/TextFileAnalyzerVB.deps.json
+/Users/reveal/Documents/TextFileAnalyzerVB/bin/Debug/net6.0/TextFileAnalyzerVB.runtimeconfig.json
+/Users/reveal/Documents/TextFileAnalyzerVB/bin/Debug/net6.0/TextFileAnalyzerVB.dll
+/Users/reveal/Documents/TextFileAnalyzerVB/bin/Debug/net6.0/TextFileAnalyzerVB.pdb
+/Users/reveal/Documents/TextFileAnalyzerVB/obj/Debug/net6.0/TextFileAnalyzerVB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reveal/Documents/TextFileAnalyzerVB/obj/Debug/net6.0/TextFileAnalyzerVB.AssemblyInfoInputs.cache
+/Users/reveal/Documents/TextFileAnalyzerVB/obj/Debug/net6.0/TextFileAnalyzerVB.AssemblyInfo.vb
+/Users/reveal/Documents/TextFileAnalyzerVB/obj/Debug/net6.0/TextFileAnalyzerVB.vbproj.CoreCompileInputs.cache
+/Users/reveal/Documents/TextFileAnalyzerVB/obj/Debug/net6.0/TextFileAnalyzerVB.sourcelink.json
+/Users/reveal/Documents/TextFileAnalyzerVB/obj/Debug/net6.0/TextFileAnalyzerVB.dll
+/Users/reveal/Documents/TextFileAnalyzerVB/obj/Debug/net6.0/refint/TextFileAnalyzerVB.dll
+/Users/reveal/Documents/TextFileAnalyzerVB/obj/Debug/net6.0/TextFileAnalyzerVB.pdb
+/Users/reveal/Documents/TextFileAnalyzerVB/obj/Debug/net6.0/TextFileAnalyzerVB.genruntimeconfig.cache
+/Users/reveal/Documents/TextFileAnalyzerVB/obj/Debug/net6.0/ref/TextFileAnalyzerVB.dll

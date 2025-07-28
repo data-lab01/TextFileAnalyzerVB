@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/H7PZoVKMbA=",
+  "success": true,
+  "projectFilePath": "/Users/reveal/Documents/TextFileAnalyzerVB/TextFileAnalyzerVB.vbproj",
+  "expectedPackageFiles": [
+    "/Users/reveal/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/reveal/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/reveal/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.36/microsoft.netcore.app.host.osx-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
