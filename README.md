@@ -16,5 +16,23 @@ A beginner-friendly **VB.NET (.NET 6)** console application that reads a text fi
 - [.NET SDK 6.0+](https://dotnet.microsoft.com/download)
 - A terminal or code editor (e.g., Visual Studio, VS Code)
 
+## 🚀 How to Run the Application
+### Step 1: Open a Terminal or Command Prompt
+Navigate to the root folder of the project:
+
+```bash
+cd path/to/TextFileAnalyzerVB
+```
+dotnet run
+Enter path to text file:
+
+Analyze the File
+
+The program will display:
+ 
+ - Number of lines
+ - Number of words
+ - Most frequent word(s)
+
 Author:
 Robert Bakyayita
