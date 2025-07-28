@@ -23,8 +23,8 @@ Navigate to the root folder of the project:
 ```bash
 cd path/to/TextFileAnalyzerVB
 ```
-dotnet run
-Enter path to text file:
+-- dotnet run
+-- Enter path to text file:
 
 Analyze the File
 
