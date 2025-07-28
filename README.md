@@ -1,4 +1,4 @@
-<img width="1744" height="1161" alt="image" src="https://github.com/user-attachments/assets/431fdacb-5855-4fbb-b1f5-b9d618ebbade" />
+<img width="1256" height="728" alt="image" src="https://github.com/user-attachments/assets/f88b7744-a123-44b7-91c3-498f25352882" />
 
 # 📄 Text File Analyzer in VB.NET
 
