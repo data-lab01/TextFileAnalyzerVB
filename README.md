@@ -45,7 +45,8 @@ Follow the Prompts
 📜 License
 
 This project is licensed under the MIT License.
-👤 Author
-Robert Bakyayita
+
+# 👤 Author
+## Robert Bakyayita
     GitHub: @data-lab01
     Email: rw-bakyayita@outlook.com
