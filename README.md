@@ -24,7 +24,7 @@ A beginner-friendly **VB.NET (.NET 6)** console application that reads a text fi
 ---
 
 ## 🧪 How to Run the Application
-### 1️⃣ Open a Terminal or Command Prompt
+###   Open a Terminal or Command Prompt
 Navigate to the root folder of the project:
 
 ```bash
